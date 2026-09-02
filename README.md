@@ -1,4 +1,4 @@
-Hello There!
+### Hi there 👋
 <h1>Mahd Siddiqui</h1>
 🖥️ Learning Full-stack Dev
 <br> <br>
@@ -14,6 +14,16 @@ Hello There!
 </p>
 <h2>About Me</h2>
 I'm an aspiring <strong>Software Engineer</strong>, constantly learning new languages, frameworks, and building cool and real-world projects. I enjoy <strong>solving problems, experimenting with new technologies, and turning ideas into reality through code.</strong>
+<br>
+<h3>Info</h3>
+	<ul>
+		<li>🔭 I’m currently working on Websites and Full-Stack applications</li>
+		<li>🌱 I’m currently learning Full Stack development</li>
+		<li>👯 I’m looking to collaborate on Web development Projects</li>
+		<li>📫 How to reach me: email me at <a href="">mahd.r.siddiqui@gmail.com</a></li>
+		<li>⚡ Fun fact: Gaming is one of my favorite hobbies</li>
+	</ul>
+
 
 <h3>Languages & Tools</h3>
 <ul>
