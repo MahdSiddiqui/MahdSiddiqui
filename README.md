@@ -44,5 +44,7 @@ I have made <strong>many</strong> Web Applications, such as these:
 <h3>Joke Generator Application:</h3>
 <img src="jokesimg.png" width="300">
 <h4>https://www.weather-app-ltl5.vercel.app</h4>
+<br>
 
-#### and more...
+##### more in my repositories
+
