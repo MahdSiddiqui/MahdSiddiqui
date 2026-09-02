@@ -27,7 +27,7 @@ I'm an aspiring <strong>Software Engineer</strong>, constantly learning new lang
 
 <h3>Languages & Tools</h3>
 <ul>
-        <li>🧱 Intermediate Knowledge in HTML/CSS</li>
+        <li>🧱 Advanced Knowledge in HTML/CSS</li>
         <li>⚡ Intermediate Knowledge in JS and frameworks (Node/Express)</li>
 	<li>🔗 Fundamental Knowledge in API Integration</li>
         <li>🗄️ Fundamental Knowledge in MySQL</li>
