@@ -13,7 +13,7 @@
   | <img <img src="https://cdn.simpleicons.org/express/white" width="15"> Express.js
 </p>
 <h2>About Me</h2>
-I'm an aspiring <strong>Software Engineer</strong>, constantly learning new languages, frameworks, and building cool and real-world projects. I enjoy <strong>solving problems, experimenting with new technologies, and turning ideas into reality through code.</strong>
+I'm an aspiring <strong>Software Engineer</strong>, constantly learning new languages, frameworks, and building cool, real-world projects. I enjoy <strong>solving problems, experimenting with new technologies, and turning ideas into reality through code.</strong>
 <br>
 <h3>Info</h3>
 	<ul>
