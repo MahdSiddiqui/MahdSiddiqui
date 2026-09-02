@@ -27,4 +27,10 @@ I'm an aspiring <strong>Software Engineer</strong>, constantly learning new lang
 <h2>My Projects</h2>
 I have made <strong>many</strong> Web Applications, such as these:
 
-<h3 align="left">Interactive Weather Application: https://www.weather-app-ltl5.vercel.app</h3>
+<h3 align="left">Interactive Weather Application:</h3>
+<img src="weatherimg.png" width="300">
+<h4>https://www.weather-app-ltl5.vercel.app</h4>
+<br>
+<h3>Joke Generator Application:</h3>
+<img src="jokesimg.png" width="300">
+<h4>https://www.weather-app-ltl5.vercel.app</h4>
