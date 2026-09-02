@@ -1,6 +1,6 @@
-### Hi there 👋
+#### You found my GitHub. 👀 
 <h1>Mahd Siddiqui</h1>
-🖥️ Learning Full-stack Dev
+🖥️ Learning Full-stack Development
 <br> <br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15"> HTML
