@@ -32,7 +32,7 @@ I'm an aspiring <strong>Software Engineer</strong>, constantly learning new lang
 <h3>Languages & Tools</h3>
 <ul>
         <li>🧱 Advanced Knowledge in <strong>HTML/CSS</strong></li>
-        <li>⚡ Intermediate Knowledge in <strong>JS</strong>and frameworks <strong>(Node/Express)</strong></li>
+        <li>⚡ Intermediate Knowledge in <strong>JS</strong> and frameworks <strong>(Node/Express)</strong></li>
 		<li>🔗 Fundamental Knowledge in <strong>API Integration</strong></li>
         <li>🗄️ Fundamental Knowledge in <strong>MySQ</strong>L</li>
         <li>⚙️ Basic Knowledge in <strong>C</strong> & <strong>C#</strong></li>
