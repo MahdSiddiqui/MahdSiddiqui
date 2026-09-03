@@ -20,8 +20,12 @@ I'm an aspiring <strong>Software Engineer</strong>, constantly learning new lang
 		<li>🔭 I’m currently working on Websites and Full-Stack applications</li>
 		<li>🌱 I’m currently learning Full Stack development</li>
 		<li>👯 I’m looking to collaborate on Web development Projects</li>
-		<li>📫 How to reach me: email me at <a href="">mahd.r.siddiqui@gmail.com</a></li>
-		<li>⚡ Fun fact: Gaming is one of my favorite hobbies</li>
+		<li>📫 How to reach me: </li>
+		<ul>
+			<li> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="15"> : <a href=""> mahd.r.siddiqui@gmail.com</a>, </li>
+			<li><img src="https://cdn.simpleicons.org/discord/5865F2" width="15"> : <a href="">javajonesyxd</a> </li>
+		</ul>
+		<li>⚡ Fun fact: I love playing games like Apex, Minecraft, etc.</li>
 	</ul>
 
 
