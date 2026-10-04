@@ -13,13 +13,13 @@
   | <img <img src="https://cdn.simpleicons.org/express/white" width="15"> Express.js
 </p>
 <h2>About Me</h2>
-I'm an aspiring <strong>Software Engineer</strong>, constantly learning new languages, frameworks, and building cool, real-world projects. I enjoy <strong>solving problems, experimenting with new technologies, and turning ideas into reality through code.</strong>
+I'm an aspiring <strong>Software Engineer</strong>, constantly learning new languages, frameworks, and building cool real-world projects. I enjoy <strong>solving problems, experimenting with new technologies, and turning ideas into reality through code.</strong>
 <br>
 <h3>Info</h3>
 	<ul>
 		<li>🔭 Currently working on Websites and Full-Stack applications</li>
 		<li>🌱 Learning Full Stack development</li>
-		<li>👯 Looking to collaborate on Web development Projects</li>
+		<li>👯 Looking to collaborate on Web development projects</li>
 		<li>📫 How to reach me: </li>
 		<ul>
 			<li> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="15"> : <a href=""> mahd.r.siddiqui@gmail.com</a>, </li>
@@ -34,12 +34,12 @@ I'm an aspiring <strong>Software Engineer</strong>, constantly learning new lang
         <li>🧱 Advanced Knowledge in <strong>HTML/CSS</strong></li>
         <li>⚡ Intermediate Knowledge in <strong>JS</strong> and frameworks <strong>(Node/Express)</strong></li>
 		<li>🔗 Fundamental Knowledge in <strong>API Integration</strong></li>
-        <li>🗄️ Fundamental Knowledge in <strong>MySQ</strong>L</li>
+        <li>🗄️ Fundamental Knowledge in <strong>MySQL</strong></li>
         <li>⚙️ Basic Knowledge in <strong>C</strong> & <strong>C#</strong></li>
 </ul>
 
 <h2>My Projects</h2>
-I have made <strong>many</strong> Web Applications, such as these:
+I have made <strong>many</strong> Web Applications, such as:
 
 <h3 align="left">Interactive Weather Application:</h3>
 <img src="weatherimg.png" width="300">
