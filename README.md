@@ -42,9 +42,9 @@ I'm an aspiring <strong>Software Engineer</strong>, constantly learning new lang
 I have made <strong>many</strong> Web Applications, such as: <br> <br>
 
 
-<a style="text-decoration: none" href="blogify-nine-alpha.vercel.app">📝 Blog application with authentication</a>
+<a style="text-decoration: none" href="https://www.blogify-nine-alpha.vercel.app">📝 Blog application with authentication</a>
 
-<a href="weather-app-ltl5.vercel.app" style="text-decoration: inherit;">⛅ Interactive weather application</a>
+<a href="https://weather-app-ltl5.vercel.app" style="text-decoration: inherit;">⛅ Interactive weather application</a>
 
 
 ##### more in my repositories
